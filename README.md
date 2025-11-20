@@ -1,6 +1,8 @@
 # JavaScript Guild's Christmas Card Challenge
 
-This repository contains one example Christmas card and basic instructions to help you get started. You may use any JavaScript approach or technology.
+The challenge is to create a JavaScript-powered Christmas card. You can use any JavaScript technologies you like, and beyond that you’re free to build whatever you want. Your imagination is the only limit!
+
+This repository contains an example Christmas card that you can also clone and modify into your own creation if you wish.
 
 You can create your card in advance during your own free time, but there will also be time to create one during the JavaScript Guild's event PikkuJSoulut on 9.12.2025.
 
@@ -16,4 +18,4 @@ Participants will vote for the winners. Prizes will be awarded in the following 
 
 - Technologically Most Impressive
 
-Have fun experimenting, and feel free to build something as simple or as ambitious as you like.
+Have fun experimenting, and feel free to build something as simple or as ambitious as you like!
