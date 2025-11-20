@@ -19,3 +19,5 @@ Participants will vote for the winners. Prizes will be awarded in the following 
 - Technologically Most Impressive
 
 Have fun experimenting, and feel free to build something as simple or as ambitious as you like!
+
+<img width="801" height="450" alt="image" src="https://github.com/user-attachments/assets/ea04faf7-4b98-4860-8f73-af8929c0355c" />
