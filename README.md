@@ -1,4 +1,4 @@
-#JavaScript Guild's Christmas Card Challenge
+# JavaScript Guild's Christmas Card Challenge
 
 This repository contains one example Christmas card and basic instructions to help you get started. You may use any JavaScript approach or technology.
 
